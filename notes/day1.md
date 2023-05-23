@@ -1,4 +1,5 @@
 # Day 1 Notes
+## Lecture Notes/Thoughts
 
 * quizzes are based on the YouTube videos!!!
 
